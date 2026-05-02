@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: 'Agent Name'
+        description: 'cryptocuan'
         required: true
         default: 'cryptocuan'
       agent_description:
-        description: 'Agent Description'
+        description: 'cryptocuan'
         required: true
         default: 'cryptocuan AI Agent'
 
